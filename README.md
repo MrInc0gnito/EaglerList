@@ -1,7 +1,8 @@
 # EaglerList
 We converted Eaglercraft into a Scratch list and all you need to do is export it and rename it to "game.html"!
+To install, check releases
 
-# Releases
+# Editions
 Currently, only Turbowarp & PenguinMOD are supported and it won't run on Scratch due to the lack of advanced extensions!
 Although we are compiling a version for Scratch that will release soon, wait for v1.0!
 

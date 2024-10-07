@@ -3,8 +3,7 @@ We converted Eaglercraft into a Scratch list and all you need to do is export it
 To install, check releases
 
 # Editions
-Currently, only Turbowarp & PenguinMOD are supported and it won't run on Scratch due to the lack of advanced extensions!
-Although we are compiling a version for Scratch that will release soon, wait for v1.0!
+You can visit the releases and choose between a scratch version and a modded-scratch version.
 
 # Developer Notices
 Press SPACE in the project to load up developer notices

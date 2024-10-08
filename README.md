@@ -3,7 +3,7 @@ We converted Eaglercraft into a Scratch list and all you need to do is export it
 To install, check releases
 
 # Editions
-For the turbowarp and penguinmod version, view the github releases! For the scratch version, visit https://scratch.mit.edu/users/Unblockables/
+For the turbowarp and penguinmod version, view the github releases!
 
 # Developer Notices
 Press SPACE in the project to load up developer notices
